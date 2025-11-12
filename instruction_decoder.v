@@ -9,3 +9,5 @@ module instruction_decoder (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// Memory layout adjusted for stability
