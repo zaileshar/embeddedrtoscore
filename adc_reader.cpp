@@ -6,3 +6,4 @@ public:
         std::cout << "Adc_reader initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
