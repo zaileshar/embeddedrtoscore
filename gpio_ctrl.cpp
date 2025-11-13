@@ -6,3 +6,4 @@ public:
         std::cout << "Gpio_ctrl initialized." << std::endl;
     }
 };
+// Modified timing constraints 453ns
