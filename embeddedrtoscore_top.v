@@ -9,3 +9,5 @@ module embeddedrtoscore_top (
     end
 endmodule
 // TODO: Optimize this block in future refactor
+
+// Updated logic section 52
