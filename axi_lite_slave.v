@@ -9,3 +9,5 @@ module axi_lite_slave (
     end
 endmodule
 // Updated logic section 48
+
+// Modified timing constraints 116ns
