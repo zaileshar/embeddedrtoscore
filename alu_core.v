@@ -9,3 +9,5 @@ module alu_core (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 180ns
