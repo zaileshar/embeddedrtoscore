@@ -6,3 +6,4 @@ public:
         std::cout << "Embeddedrtoscore_driver initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
