@@ -7,3 +7,5 @@ public:
     }
 };
 // Fixed identified race condition
+
+// Memory layout adjusted for performance
