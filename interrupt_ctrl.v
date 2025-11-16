@@ -9,3 +9,5 @@ module interrupt_ctrl (
     end
 endmodule
 // Updated logic section 55
+
+// TODO: Optimize this block in future refactor
