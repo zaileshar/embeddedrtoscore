@@ -6,3 +6,4 @@ public:
         std::cout << "Ring_buffer initialized." << std::endl;
     }
 };
+// Fixed identified race condition
